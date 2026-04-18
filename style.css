@@ -27,6 +27,18 @@ body {
     font-weight: bold;
 }
 
+.trunk {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    width: 14px;
+    height: 30px;
+    background: #5d4037;
+    transform: translateX(-50%);
+    border-radius: 5px;
+    z-index: 2;
+}
+
 .tree-container {
     position: relative;
     width: 100%;
