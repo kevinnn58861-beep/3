@@ -36,10 +36,10 @@ body {
 
 .trunk {
     position: absolute;
-    bottom: -80px;
+    bottom: -30px;
     left: 50%;
     width: 14px;
-    height: 60px;
+    height: 44px;
     background: #5d4037;
     transform: translateX(-50%);
     border-radius: 5px;
